@@ -1,0 +1,74 @@
+form  input{
+   padding:10px 30px 10px 5px;
+   font-size:16px;
+   color: black;
+   font-weight: 900;
+   border-radius: 30px;
+}
+form{
+   background-image: url("https://i.pinimg.com/736x/44/4e/f0/444ef0ffe923fdc13acfe4f429774c2a.jpg");
+   background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  width: 500px;
+  padding: 40px;
+  margin-top: 30px;
+margin-left: 700px;
+border-radius: 20px;
+}
+select{
+    padding: 90px;
+    font-size:14px;
+   color: black;
+   font-weight: 900;
+   border-radius: 10px;
+}
+.btn{
+    color:red;
+    border: 2px solid black;
+    text-align: center;
+    padding-left: 30px;
+}
+#photo{
+
+    height: 20px;
+    width: 20px;
+}
+table{
+   
+    margin: 50px;
+    text-align: center;
+    text-transform:capitalize;
+    border: 2px solid black;
+    box-shadow: 0 0 10px black;
+  
+  
+}
+.del{
+    color: red;
+     font-weight: 900;
+     margin-top: 42px;
+     border: none;
+     background-color: transparent;
+     font-size: 18px;
+    padding: 20px;
+}
+tr td{
+    font-size: 30px;
+padding: 20px;
+text-align: center;
+
+border: 1px solid black;
+}
+.color{
+   background-image: url("https://i.pinimg.com/564x/f4/ec/46/f4ec463a4169ce72a3c6ff28e2af8f23.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+  color:#008DDA;
+  font-weight: 900;
+  border: 1px solid black;
+  
+}
+tr td img{
+    width:110px;
+}
